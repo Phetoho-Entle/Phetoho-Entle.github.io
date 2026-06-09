@@ -1,32 +1,57 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Personal Portfolio Website
+Overview
 
+This portfolio website showcases my skills, projects, and journey as an aspiring Data Analyst. It serves as a central hub where recruiters and employers can view my technical projects, learn about my background, and access my professional profiles.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Features
+Professional About Me section
+Featured Data Analytics Projects
+Technical Skills Overview
+Contact Information
+Responsive Design for Desktop and Mobile Devices
+Links to GitHub and LinkedIn
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Featured Projects
+COVID-19 Data Exploration (SQL)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Analyzed global COVID-19 data using SQL to identify infection, mortality, and vaccination trends through joins, aggregations, CTEs, and window functions.
 
-(* = not included)
+Nashville Housing Data Cleaning (SQL)
 
-AJ
-aj@lkn.io | @ajlkn
+Cleaned and standardized housing data by handling missing values, removing duplicates, and preparing the dataset for analysis.
 
+Data Professionals Survey Dashboard (Power BI)
 
-Credits:
+Built an interactive dashboard analyzing survey data from data professionals, including salary trends, job satisfaction, demographics, and favorite programming languages.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Retail Sales Exploratory Data Analysis (Python)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Used Pandas and Matplotlib to analyze retail sales data, identify customer purchasing patterns, and generate business recommendations.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Weather Application
+
+Developed a responsive weather application using HTML, CSS, JavaScript, and a weather API to display real-time weather information and forecasts.
+
+Skills Demonstrated
+SQL
+Python
+Pandas
+Power BI
+Excel
+Tableau
+Data Cleaning
+Exploratory Data Analysis
+Data Visualization
+Dashboard Development
+HTML
+CSS
+JavaScript
+Live Website
+
+Contact
+LinkedIn: https://www.linkedin.com/in/phetoho-entle-mohohla-642354352/
+GitHub: https://github.com/Phetoho-Entle?tab=repositories
+Email: phetomohohla1122@gmail.com
